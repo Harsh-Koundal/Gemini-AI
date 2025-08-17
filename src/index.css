@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  min-width: 2vw;
+  max-height: 100vh;
+  box-sizing: border-box;
+}
+#root{
+  max-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+
+}
+
